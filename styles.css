@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1, h2, p {
+    color: white;
+    text-align: center;
+}
+
+#dwn_btn{
+    background-color: yellow;
+    border: black ;
+    padding: 100px;
+    width: 100px;
+    height: 50px;
+}
